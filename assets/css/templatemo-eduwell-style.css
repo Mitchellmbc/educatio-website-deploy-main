@@ -44,11 +44,6 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
-#custom {
-  color: blue;
-  background-color: black;
-}
-
 .clearfix:after {
   content: ".";
   display: block;
