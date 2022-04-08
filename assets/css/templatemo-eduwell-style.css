@@ -1048,7 +1048,6 @@ section.testimonials:after {
 
 .testimonials .item p {
   font-size: 16px;
-  font-style: italic;
 }
 
 .testimonials .item h4 {
@@ -1056,6 +1055,7 @@ section.testimonials:after {
   font-size: 20px;
   font-weight: 900;
   position: relative;
+  margin-bottom: 10px;
 }
 
 .testimonials .item span {
