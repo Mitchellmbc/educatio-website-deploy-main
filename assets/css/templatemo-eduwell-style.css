@@ -1667,6 +1667,28 @@ img {
   height: 75%;
 }
 
+section.section .left-heading p {
+  font-size: 14px;
+  line-height: 25px;
+  color: #4a4a4a;
+}
+section.section .left-heading em {
+  font-style: normal;
+  color: #dc8cdb;
+  line-height: 40px;
+font-size: 28px;
+font-weight: 900;
+text-transform: capitalize;
+}
+section.section .left-heading h4{
+  margin-top: 20px;
+  font-size: 64px;
+  color: #111111;
+  font-weight: 900;
+  line-height: 74px;
+  margin-bottom: 10px;
+}
+
 /*
 ---------------------------------------------
 contact us page
