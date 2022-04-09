@@ -1656,7 +1656,16 @@ section.featured-product .info-item h4 {
 section.featured-product .product-image {
   margin: 0px 60px;
 }
-
+/*
+Mishu styles
+*/
+img {
+  width: 100%;
+}
+.img-fluid {
+  max-width: 75%;
+  height: 75%;
+}
 
 /*
 ---------------------------------------------
