@@ -1287,12 +1287,24 @@ section.page-heading .header-text h4 {
   text-transform: capitalize;
   color: #7a7a7a;
 }
+#page-heading-h4-no-capitalize {
+  font-size: 17px;
+    text-transform: none;
+  color: #7a7a7a;
+}
 
 section.page-heading .header-text h1 {
   font-size: 62px;
   font-weight: 900;
   color: #111;
   margin-top: 10px;
+}
+#page-heading-h1-small-padding {
+  font-size: 62px;
+  font-weight: 900;
+  color: #111;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 
