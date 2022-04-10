@@ -200,6 +200,9 @@ body {
 section {
   margin-top: 140px;
 }
+#override {
+  margin-top: 50px;
+}
 
 #contact-section {
   padding-top: 20px;
@@ -1274,6 +1277,10 @@ section.page-heading .header-text {
   border-bottom: 3px solid #eee;
   padding-bottom: 80px;
 }
+#mitch-header {
+  border-bottom: 3px solid #eee;
+  padding-bottom: 40px;
+}
 
 section.page-heading .header-text h4 {
   font-size: 17px;
@@ -1864,6 +1871,7 @@ body {
   section.contact-us #contact button {
     float: none;
   }
+
   section.get-info .left-image {
     margin-right: 0px;
     margin-bottom: 30px;
