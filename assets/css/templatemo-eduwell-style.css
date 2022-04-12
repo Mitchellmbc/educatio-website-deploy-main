@@ -763,7 +763,7 @@ services
 }
 
 .services .item:hover {
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06);
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.12);
 }
 
 .services .item .icon {
@@ -1046,7 +1046,7 @@ section.testimonials:after {
 }
 
 .testimonials .item:hover {
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.06);
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.12);
 }
 
 .testimonials .item p {
