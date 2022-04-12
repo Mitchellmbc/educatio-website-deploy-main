@@ -1710,6 +1710,12 @@ section.section .left-heading h4{
   line-height: 74px;
   margin-bottom: 10px;
 }
+#eleven-plus-header {
+    font-size: 62px;
+    font-weight: 900;
+    color: #111;
+    margin-top: 10px;
+}
 
 /*
 ---------------------------------------------
