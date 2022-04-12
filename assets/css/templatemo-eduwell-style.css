@@ -1045,6 +1045,7 @@ section.testimonials:after {
   transition: all .3s;
   position: relative;
   z-index: 2;
+  height: 100%;
 }
 
 .testimonials .item:hover {
