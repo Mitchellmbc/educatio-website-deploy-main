@@ -210,6 +210,10 @@ section {
   padding-top: 20px;
 }
 
+#row-override {
+  border:
+}
+
 .section-heading {
   position: relative;
   z-index: 2;
