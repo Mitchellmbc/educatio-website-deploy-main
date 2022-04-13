@@ -1315,7 +1315,7 @@ section.page-heading .header-text h1 {
   font-size: 62px;
   font-weight: 900;
   color: #111;
-  margin-top: 5px;
+  margin-top: -5px;
   margin-bottom: 5px;
 }
 
