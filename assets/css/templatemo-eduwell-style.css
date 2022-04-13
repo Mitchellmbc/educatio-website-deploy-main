@@ -1688,6 +1688,10 @@ img {
   max-width: 75%;
   height: 100%;
 }
+#img-override{
+  max-width: 50%;
+  height:100%;
+}
 
 section.section .left-heading p {
   font-size: 14px;
