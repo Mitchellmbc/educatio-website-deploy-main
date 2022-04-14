@@ -1745,7 +1745,17 @@ section.section .left-heading h4{
   text-transform: uppercase;
   border: none;
   outline: none;
-  
+  margin-left: 50%;
+}
+#thank-you {
+  position: relative;
+  z-index: 2;
+  margin-top: 20px;
+  font-size: 64px;
+  color: #111111;
+  font-weight: 900;
+  line-height: 74px;
+  margin-bottom: 10px;
 }
 /*
 ---------------------------------------------
