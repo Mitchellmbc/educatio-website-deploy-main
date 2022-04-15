@@ -1291,7 +1291,7 @@ section.page-heading .header-text {
 }
 #mitch-header {
   border-bottom: 3px solid #eee;
-  padding-bottom: 40px;
+  padding-bottom: 50px;
 }
 
 section.page-heading .header-text h4 {
@@ -1316,7 +1316,7 @@ section.page-heading .header-text h1 {
   font-weight: 900;
   color: #111;
   margin-top: -5px;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 
@@ -1724,14 +1724,14 @@ section.section .left-heading h4{
   margin-bottom: 10px;
 }
 #eleven-plus-header {
-    font-size: 62px;
+    font-size: 64px;
     font-weight: 900;
     color: #111;
     margin-top: 10px;
 }
 
 #section-override {
-    padding-top: 5px;
+    padding-top: 20px;
     margin-top: 40px;
 }
 .mish-button {
