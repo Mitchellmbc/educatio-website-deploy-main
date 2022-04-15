@@ -1745,7 +1745,6 @@ section.section .left-heading h4{
   text-transform: uppercase;
   border: none;
   outline: none;
-  margin-left: 50%;
 }
 #thank-you {
   position: relative;
@@ -1754,6 +1753,16 @@ section.section .left-heading h4{
   font-size: 64px;
   color: #111111;
   font-weight: 900;
+  line-height: 74px;
+  margin-bottom: 10px;
+}
+#thank-you-sub {
+  position: relative;
+  z-index: 2;
+  margin-top: 20px;
+  font-size: 36px;
+  color: #111111;
+  font-weight: normal;
   line-height: 74px;
   margin-bottom: 10px;
 }
