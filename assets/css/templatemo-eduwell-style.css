@@ -713,17 +713,6 @@ section.main-banner {
   z-index: 1;
 }
 
-.main-banner .header-text::after {
-  position: absolute;
-  background-image: url(../images/banner-left-dec.png);
-  width: 214px;
-  height: 429px;
-  content: '';
-  left: 0;
-  bottom: -240px;
-  z-index: 1;
-}
-
 .main-banner .header-text h6 {
   position: relative;
   z-index: 2;
@@ -768,7 +757,7 @@ services
 .services .item {
   border-radius: 15px;
   text-align: center;
-  padding: 50px 30px;
+  padding: 10px 30px;
   margin: 15px;
   transition: all .3s;
 }
@@ -829,7 +818,7 @@ section.our-courses:before {
   content: '';
   background-image: url(../images/our-courses-left-dec.png);
   left: 45px;
-  top: -140px;
+  top: -90px;
   width: 291px;
   height: 231px;
   z-index: 1;
@@ -840,7 +829,7 @@ section.our-courses:after {
   content: '';
   background-image: url(../images/our-courses-right-dec.png);
   right: 45px;
-  top: -140px;
+  top: -90px;
   width: 291px;
   height: 231px;
   z-index: 1;
@@ -1119,6 +1108,16 @@ section.contact-us {
   background-size: cover;
   padding: 0px;
   position: relative;
+}
+
+#mish-bg {
+  background-image: url(../images/thank-you-bg.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+  position: relative;
+
 }
 
 section.contact-us:after {
@@ -1728,6 +1727,23 @@ section.section .left-heading h4{
     font-weight: 900;
     color: #111;
     margin-top: 10px;
+    margin-bottom: 15px
+}
+
+#eleven-plus-subtitle {
+    margin-top: -5px;
+    line-height: 40px;
+    font-size: 28px;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: #111;
+}
+
+#eleven-plus-sub-subtitle {
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #dc8cdb;
+  font-weight: 900;
 }
 
 #section-override {
@@ -1735,16 +1751,17 @@ section.section .left-heading h4{
     margin-top: 40px;
 }
 .mish-button {
-  font-size: 13px;
+  font-size: 20px;
   color: #fff;
   background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
   font-weight: 500;
-  text-transform: uppercase;
+  text-transform: capitalize;
   border: none;
   outline: none;
+  margin-top: 10px;
 }
 #thank-you {
   position: relative;
@@ -1759,7 +1776,7 @@ section.section .left-heading h4{
 #thank-you-sub {
   position: relative;
   z-index: 2;
-  margin-top: 20px;
+  margin-top: -10px;
   font-size: 36px;
   color: #111111;
   font-weight: normal;
