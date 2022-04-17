@@ -1306,17 +1306,17 @@ section.page-heading .header-text h4 {
 }
 
 section.page-heading .header-text h1 {
-  font-size: 64px;
+  font-size: 48px;
   font-weight: 900;
   color: #111;
   margin-top: 10px;
 }
 #page-heading-h1-small-padding {
-  font-size: 62px;
+  font-size: 48px;
   font-weight: 900;
   color: #111;
-  margin-top: -5px;
-  margin-bottom: 15px;
+  margin-top: 0px;
+  margin-bottom: 10px;
 }
 
 
@@ -1724,7 +1724,7 @@ section.section .left-heading h4{
   margin-bottom: 10px;
 }
 #eleven-plus-header {
-    font-size: 64px;
+    font-size: 48px;
     font-weight: 900;
     color: #111;
     margin-top: 10px;
