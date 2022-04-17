@@ -1045,6 +1045,7 @@ section.testimonials:after {
   position: relative;
   z-index: 2;
   height: 100%;
+  padding-top: 40px;
 }
 
 .testimonials .item:hover {
@@ -1052,7 +1053,7 @@ section.testimonials:after {
 }
 
 .testimonials .item p {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .testimonials .item h4 {
@@ -1074,7 +1075,7 @@ section.testimonials:after {
   z-index: 2;
   position: absolute;
   left: 30px;
-  top: 0px
+  top: 10px
 }
 
 .testimonials .owl-dots {
