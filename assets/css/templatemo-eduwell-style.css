@@ -989,11 +989,12 @@ section.simple-cta h6 {
 }
 
 section.simple-cta h4 {
-  font-size: 62px;
+  font-size: 64px;
   font-weight: 900;
   color: #fff;
   line-height: 74px;
   margin-top: 20px;
+  width: 40vw;
 }
 
 section.simple-cta p {
@@ -1162,14 +1163,14 @@ section.contact-us .contact-info h4 {
 }
 
 section.contact-us .contact-info span {
-  font-size: 15px;
+  font-size: 14px;
   color: #dc8cdb;
   font-weight: 700;
 }
 
 section.contact-us .section-heading {
   text-align: left;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 section.contact-us #contact {
