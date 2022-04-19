@@ -617,7 +617,7 @@ header
     border-top: 1px solid #eee;
   }
   .header-area.header-sticky .nav {
-    margin-top: 100px !important;
+    margin-top: 80px !important;
   }
   .header-area .main-nav .nav li {
     width: 100%;
@@ -1790,6 +1790,12 @@ section.section .left-heading h4{
   margin-left: 100px;
   margin-bottom: 35px;
 }
+#logo {
+
+}
+#mobile-logo {
+  display: none;
+}
 /*
 ---------------------------------------------
 contact us page
@@ -2050,10 +2056,22 @@ body {
   .main-banner .header-text h2 {
     font-size:48px;
   }
+  #contact-section {
+    padding-top: 30px;
+  }
+  section.page-heading .header-text h1 {
+    font-size: 36px;
+  }
 }
 @media (max-width: 580px) {
   #contact-us-header-mitch {
     margin-left: auto;
     margin-right: auto;
+  }
+  #logo {
+    display: none;
+  }
+  #mobile-logo {
+    display: inline;
   }
 }
