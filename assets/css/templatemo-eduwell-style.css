@@ -1805,6 +1805,9 @@ section.section .left-heading h4{
 #p-tag {
 
 }
+#mish-mobile {
+
+}
 /*
 ---------------------------------------------
 contact us page
@@ -2094,5 +2097,8 @@ body {
   }
   section.contact-us {
     margin-top: 50px;
+  }
+  #mish-mobile {
+    margin-bottom: 50px;
   }
 }
