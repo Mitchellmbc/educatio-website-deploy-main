@@ -1796,6 +1796,15 @@ section.section .left-heading h4{
 #mobile-logo {
   display: none;
 }
+.small-screen {
+  display: none;
+}
+.big-screen {
+
+}
+#p-tag {
+
+}
 /*
 ---------------------------------------------
 contact us page
@@ -2010,6 +2019,15 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
+  .big-screen {
+    display: none;
+  }
+  .small-screen {
+    display: flex;
+  }
+  #p-tag {
+    margin-bottom: 30px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -2073,5 +2091,8 @@ body {
   }
   #mobile-logo {
     display: inline;
+  }
+  section.contact-us {
+    margin-top: 50px;
   }
 }
