@@ -1839,6 +1839,37 @@ section.section .left-heading h4{
    padding-bottom: 15%;
    padding-left: 0%;
 }
+.check-mark {
+  background-color: #77B255;
+  color: white;
+  border-radius: 10%;
+}
+.container .border {
+  border: solid #B4B4B4 1px;
+}
+.how-we-can-help {
+  padding: 30px 20px;
+}
+.how-we-can-help h4 {
+  margin-top: -5px;
+  line-height: 40px;
+  font-size: 28px;
+  font-weight: 900;
+  text-transform: capitalize;
+  color: #111;
+}
+.how-we-can-help h5 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 800;
+}
+.how-we-can-help p {
+  font-size: 14px;
+  line-height: 25px;
+  color: #4a4a4a;
+  font-style: normal;
+}
 /*
 ---------------------------------------------
 contact us page
