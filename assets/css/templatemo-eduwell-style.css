@@ -2196,6 +2196,10 @@ section.our-courses ul.nacc li .right-content p {
   #mish-bg {
     background-size: 115% 30%;
   }
+  .what-we-cover {
+    margin-top: 10px ;
+    margin-bottom: -40px ;
+  }
 }
 @media (max-width: 820px) {
   #mish-bg {
