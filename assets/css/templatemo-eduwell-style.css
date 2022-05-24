@@ -1884,6 +1884,10 @@ section.section .left-heading h4{
 #pop-out {
 
 }
+.what-we-cover {
+  margin-bottom: -40px;
+  padding-left: 40px;
+}
 .what-we-cover h5 {
   padding-top: 10px;
   font-size: 20px;
@@ -2191,6 +2195,14 @@ section.our-courses ul.nacc li .right-content p {
     margin-right: 14px;
     padding-right: 14px;
   }
+  .what-we-cover {
+    margin-bottom: -60px;
+    padding-left: 0px;
+    margin-top: 30px;
+  }
+  .pin-image {
+    width: 4%;
+  }
 }
 @media (max-width: 885px) {
   #mish-bg {
@@ -2199,6 +2211,7 @@ section.our-courses ul.nacc li .right-content p {
   .what-we-cover {
     margin-top: 10px ;
     margin-bottom: -40px ;
+    padding-left: 40px;
   }
 }
 @media (max-width: 820px) {
@@ -2273,6 +2286,9 @@ section.our-courses ul.nacc li .right-content p {
   }
   #mish-bg {
     background-size: 135% 30%;
+  }
+  .pin-image {
+    width: 5.5%;
   }
 }
 @media (max-width: 718px) {
