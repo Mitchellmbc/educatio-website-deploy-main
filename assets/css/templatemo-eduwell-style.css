@@ -2200,6 +2200,9 @@ section.our-courses ul.nacc li .right-content p {
     padding-left: 0px;
     margin-top: 30px;
   }
+  .pin-image {
+    width: 4%;
+  }
 }
 @media (max-width: 885px) {
   #mish-bg {
@@ -2283,6 +2286,9 @@ section.our-courses ul.nacc li .right-content p {
   }
   #mish-bg {
     background-size: 135% 30%;
+  }
+  .pin-image {
+    width: 5.5%;
   }
 }
 @media (max-width: 718px) {
