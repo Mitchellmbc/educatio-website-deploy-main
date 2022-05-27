@@ -1853,10 +1853,12 @@ section.section .left-heading h4{
   border: solid #DDDDDD 3px;
   box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.1);
 }
-.how-we-can-help {
+/*KS3 PAGE*/
+.how-we-can-help-ks3 {
   padding: 30px 20px;
+  background-color: #FFDFF6;
 }
-.how-we-can-help h4 {
+.how-we-can-help-ks3 h4 {
   margin-top: -21px;
   line-height: 40px;
   font-size: 28px;
@@ -1864,13 +1866,38 @@ section.section .left-heading h4{
   text-transform: capitalize;
   color: #111;
 }
-.how-we-can-help h5 {
+.how-we-can-help-ks3 h5 {
   margin-top: 15px;
   margin-bottom: 15px;
   font-size: 20px;
   font-weight: 800;
 }
-.how-we-can-help p {
+.how-we-can-help-ks3 p {
+  font-size: 14px;
+  line-height: 25px;
+  color: #4a4a4a;
+  font-style: normal;
+}
+/*GCSE PAGE*/
+.how-we-can-help-gcse {
+  padding: 30px 20px;
+  background-color: #DDEFFF;
+}
+.how-we-can-help-gcse h4 {
+  margin-top: -21px;
+  line-height: 40px;
+  font-size: 28px;
+  font-weight: 900;
+  text-transform: capitalize;
+  color: #111;
+}
+.how-we-can-help-gcse h5 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 800;
+}
+.how-we-can-help-gcse p {
   font-size: 14px;
   line-height: 25px;
   color: #4a4a4a;
@@ -2210,13 +2237,16 @@ section.our-courses ul.nacc li .right-content p {
   }
   .what-we-cover {
     margin-top: 10px ;
-    margin-bottom: -40px ;
-    padding-left: 40px;
+    margin-bottom: -50px ;
+    padding-left: 10px;
   }
 }
 @media (max-width: 820px) {
   #mish-bg {
     background-size: 120% 30%;
+  }
+  #pop-out {
+    margin-top: 65px;
   }
 }
 
