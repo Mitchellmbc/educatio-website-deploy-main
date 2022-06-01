@@ -1950,6 +1950,30 @@ section.section .left-heading h4{
   text-align: center;
   border-radius: 15px;
 }
+.how-we-can-help-alevel {
+  padding: 30px 20px;
+  background-color: #FFEFDD;
+}
+.how-we-can-help-alevel h4 {
+  margin-top: -21px;
+  line-height: 40px;
+  font-size: 28px;
+  font-weight: 900;
+  text-transform: capitalize;
+  color: #111;
+}
+.how-we-can-help-alevel h5 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 800;
+}
+.how-we-can-help-alevel p {
+  font-size: 14px;
+  line-height: 25px;
+  color: #4a4a4a;
+  font-style: normal;
+}
 /*
 ---------------------------------------------
 contact us page
