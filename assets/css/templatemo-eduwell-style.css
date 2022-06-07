@@ -2255,6 +2255,9 @@ section.our-courses ul.nacc li .right-content p {
   #about2 {
     margin-top: 25px;
   }
+  #about3 {
+    margin-top: 10px;
+  }
   #about {
     margin-top: -50px;
   }
@@ -2372,7 +2375,7 @@ section.our-courses ul.nacc li .right-content p {
     background-size: 135% 30%;
   }
   .pin-image {
-    width: 5.5%;
+    width: 6%;
   }
 }
 @media (max-width: 718px) {
@@ -2428,7 +2431,25 @@ section.our-courses ul.nacc li .right-content p {
   #mish-bg {
     background-size: 145% 20%;
   }
+  .pin-image {
+    width: 7%;
+  }
+}
   @media (max-width: 414px) {
     #mish-bg {
       background-size: 145% 15%;
     }
+    .pin-image {
+      width: 8%;
+    }
+  }
+  @media (max-width: 370px) {
+    .pin-image {
+      width: 9%;
+    }
+  }
+  @media (max-width: 332px) {
+    .pin-image {
+      width: 10%;
+    }
+  }
