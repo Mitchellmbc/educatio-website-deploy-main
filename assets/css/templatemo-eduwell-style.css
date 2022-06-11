@@ -1974,6 +1974,12 @@ section.section .left-heading h4{
   color: #4a4a4a;
   font-style: normal;
 }
+#exam {
+  max-width: 70%;
+}
+#exam2 {
+  max-width: 100%;
+}
 /*
 ---------------------------------------------
 contact us page
@@ -2286,6 +2292,12 @@ section.our-courses ul.nacc li .right-content p {
   }
   .pin-image {
     width: 4%;
+  }
+  #exam {
+    max-width: 60%;
+  }
+  #exam2 {
+    max-width: 60%;
   }
 }
 @media (max-width: 885px) {
