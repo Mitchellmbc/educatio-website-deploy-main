@@ -1752,6 +1752,8 @@ section.section .left-heading h4{
   margin-bottom: 10px;
 }
 #eleven-plus-header {
+    font-family: 'Cabin Sketch', cursive;
+    color: #c334eb;
     font-size: 48px;
     font-weight: 900;
     color: #111;
@@ -1978,8 +1980,14 @@ section.section .left-heading h4{
   max-width: 70%;
 }
 #exam2 {
-  max-width: 100%;
+  max-width: 55%;
 }
+#about-us-custom {
+  font-size: 64px;
+}
+#mitch-header2 {
+    border-bottom: 3px solid #eee;
+    padding-bottom: 30px;
 /*
 ---------------------------------------------
 contact us page
@@ -2450,6 +2458,11 @@ section.our-courses ul.nacc li .right-content p {
     margin-top: 15px;
   }
 }
+@media (max-width: 428px) {
+  #about-us-custom {
+    font-size: 48px;
+  }
+}
   @media (max-width: 414px) {
     #mish-bg {
       background-size: 145% 15%;
@@ -2466,5 +2479,8 @@ section.our-courses ul.nacc li .right-content p {
   @media (max-width: 332px) {
     .pin-image {
       width: 10%;
+    }
+    #about-us-custom {
+      font-size: 40px;
     }
   }
