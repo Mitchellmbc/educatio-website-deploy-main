@@ -1138,12 +1138,12 @@ section.contact-us {
 
 #mish-bg {
   background-image: url(../images/thank-you-bg.svg);
-  background-position: bottom;
+  background-position: center bottom;
   background-repeat: no-repeat;
-  background-size: 100% 60%;
+  background-size: 100%;
   padding: 0px;
   position: relative;
-
+  background-attachment: fixed;
 }
 
 section.contact-us:after {
@@ -1838,7 +1838,7 @@ section.section .left-heading h4{
 
 }
 #thank-you-message {
-   padding-bottom: 15%;
+   padding-bottom: 75%;
    padding-left: 0%;
 }
 .check-mark {
@@ -2307,6 +2307,10 @@ section.our-courses ul.nacc li .right-content p {
   #exam2 {
     max-width: 60%;
   }
+  #thank-you-message {
+     padding-bottom: 35%;
+     padding-left: 0%;
+  }
 }
 @media (max-width: 885px) {
   #mish-bg {
@@ -2391,6 +2395,13 @@ section.our-courses ul.nacc li .right-content p {
     font-size: 18px;
     line-height: 24px;
   }
+  #thank-you-message {
+     padding-bottom: 25%;
+     padding-left: 0%;
+  }
+  .container .thank-you {
+    padding-bottom: 25%;
+  }
   #mish-bg {
     background-size: 135% 30%;
   }
@@ -2401,6 +2412,10 @@ section.our-courses ul.nacc li .right-content p {
 @media (max-width: 718px) {
   #mish-bg {
     background-size: 140% 30%;
+  }
+  #thank-you-message {
+     padding-bottom: 35%;
+     padding-left: 0%;
   }
 }
 @media (max-width: 700px) {
