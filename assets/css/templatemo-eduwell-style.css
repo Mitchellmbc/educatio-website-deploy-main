@@ -1838,7 +1838,7 @@ section.section .left-heading h4{
 
 }
 #thank-you-message {
-   padding-bottom: 25%;
+   padding-bottom: 75%;
    padding-left: 0%;
 }
 .check-mark {
@@ -2306,6 +2306,10 @@ section.our-courses ul.nacc li .right-content p {
   }
   #exam2 {
     max-width: 60%;
+  }
+  #thank-you-message {
+     padding-bottom: 35%;
+     padding-left: 0%;
   }
 }
 @media (max-width: 885px) {
